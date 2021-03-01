@@ -1,0 +1,19 @@
+/* add your own styling here */
+
+
+
+/*set it for intro to be centered*/
+#click {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+/*set it for main site to be centered*/
+#main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
